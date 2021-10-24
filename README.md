@@ -3,12 +3,12 @@
 ---
 
 # Все вопросы разделены на несколько тем: 
-- Тервер и статистика
-- SQL Pandas & Spark
-- Машинное обучение 
-- Python 
-- Алгоритмы
-- Задачи на логику
+- [Тервер и статистика](https://github.com/Lisstrange/interviews/tree/master/statistic)
+- [SQL Pandas & Spark](https://github.com/Lisstrange/interviews/tree/master/sql_pandas_spark)
+- [Машинное обучение](https://github.com/Lisstrange/interviews/tree/master/machine_learning) 
+- [Python](https://github.com/Lisstrange/interviews/tree/master/python) 
+- [Алгоритмы]()
+- [Задачи на логику](https://github.com/Lisstrange/interviews/tree/master/logical_tasks)
 
 **Тервер и статистика** - Теоретические вопросы задачи на вероятности, основы статистики и A/B тестирования.
 
