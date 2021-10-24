@@ -12,7 +12,7 @@
 <details>
 <summary>На что делится Машинное обучение?</summary>
 <div> <br />
-	<img width=600 src="https://github.com/Lisstrange/interviews/blob/master/images/7ry.jpg" alt="bench">
+	<img width=650 src="https://github.com/Lisstrange/interviews/blob/master/images/7ry.jpg" alt="bench">
 </div>
 </details>
 
