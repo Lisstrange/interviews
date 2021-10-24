@@ -107,3 +107,14 @@
 </div>
 </details>
 
+
+
+<details>
+<summary><b>Что такое boxplot?</b></summary>
+<div> <br />
+	Тело ответаа
+	<p></p>
+	<b></b>
+
+</div>
+</details>
