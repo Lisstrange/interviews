@@ -86,7 +86,7 @@
   * MAE
   * Квантильная ошибка (*нормальных мануалов не нашел, в двух словах - сильнее штрафует за недопрогноз, чем за перепрогноз*)
   
-  __Кластеризация__ (*почитать можно [тут](https://habr.com/ru/company/ods/blog/325654/)*)
+<b>Кластеризация</b>(*почитать можно [тут](https://habr.com/ru/company/ods/blog/325654/)*)
   * Adjusted Rand Index (ARI)
   * Adjusted Mutual Information (AMI)
   * Homogenity
