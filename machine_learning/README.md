@@ -60,3 +60,42 @@
 </div>
 </details>
 
+
+
+
+<details>
+<summary>Виды метрик машинного обучения?</summary>
+<div> <br />
+	Тело ответаа
+	<p></p>
+	<b></b>
+  
+<b>Классификация:</b>
+  * accuracy
+  * precision 
+  * recall
+  * F-measure
+  * AUC-ROC и AUC-PR
+  * Logistic Loss (*Данная метрика нечасто выступает в бизнес-требованиях, но часто — в задачах на kaggle. [Крутая статья](https://dyakonov.org/2018/03/12/%d0%bb%d0%be%d0%b3%d0%b8%d1%81%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d1%8f-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8/#more-6139)* )  
+  
+<b>Регрессия</b>
+  * MSE
+  * R<sup><small>2</small></sup> ([Коэффициент детерминации](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D0%B4%D0%B5%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%B8))
+  * MAE
+  * Квантильная ошибка (*нормальных мануалов не нашел, в двух словах - сильнее штрафует за недопрогноз, чем за перепрогноз*)
+  
+  __Кластеризация__ (*почитать можно [тут](https://habr.com/ru/company/ods/blog/325654/)*)
+  * Adjusted Rand Index (ARI)
+  * Adjusted Mutual Information (AMI)
+  * Homogenity
+  * Completeness
+  * V-measure
+  * Silhouette
+</div>
+</details>
+
+
+
+
+
+
