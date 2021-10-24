@@ -112,9 +112,9 @@
 <details>
 <summary><b>Что такое boxplot?</b></summary>
 <div> <br />
-	Тело ответаа
+	<b>boxplot, ящик с усами, диаграмма размаха</b> — график, использующийся в описательной статистике, компактно изображающий одномерное распределение вероятностей. (*прим. часто помогает визуально определить выбросы*)
 	<p></p>
-	<b></b>
-
+Выглядит следующим образом: 
+<img width=400 src="https://github.com/Lisstrange/interviews/blob/master/images/boxplot.png" alt="bench">
 </div>
 </details>
