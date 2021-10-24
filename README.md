@@ -7,7 +7,7 @@
 - [SQL Pandas & Spark](https://github.com/Lisstrange/interviews/tree/master/sql_pandas_spark)
 - [Машинное обучение](https://github.com/Lisstrange/interviews/tree/master/machine_learning) 
 - [Python](https://github.com/Lisstrange/interviews/tree/master/python) 
-- [Алгоритмы]()
+- [Алгоритмы](https://github.com/Lisstrange/interviews/tree/master/algoritmhs)
 - [Задачи на логику](https://github.com/Lisstrange/interviews/tree/master/logical_tasks)
 
 **Тервер и статистика** - Теоретические вопросы задачи на вероятности, основы статистики и A/B тестирования.
