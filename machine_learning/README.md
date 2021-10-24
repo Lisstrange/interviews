@@ -12,8 +12,7 @@
 <details>
 <summary>На что делится Машинное обучение?</summary>
 <div> <br />
-  
-	![](images/7ry.jpg)
+	![](https://github.com/Lisstrange/interviews/blob/master/images/7ry.jpg)
 </div>
 </details>
 
