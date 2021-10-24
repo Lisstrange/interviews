@@ -53,9 +53,12 @@
 <details>
 <summary>Какой функционал оптимизируется в задаче линейной регрессии? Как записать это в векторной записи?</summary>
 <div> <br />
-	<img width=400 src="https://github.com/Lisstrange/interviews/blob/master/images/extra.jpg" alt="bench">
-	<p>Напомню, что <b>линейная регрессия</b> - это метод восстановления зависимости между двумя переменными. Её оптимизация сводится к максимизации правдоподобия, что эквивалентно минимизации среднеквадратичной ошибки (MSE), которая широко используется в реальных задачах.  </p>
-	<img width=400 src="https://github.com/Lisstrange/interviews/blob/master/images/vector_mse.jpeg" alt="bench">
+	<p></p>
+	<b></b>
+
+<img width=400 src="https://github.com/Lisstrange/interviews/blob/master/images/extra.jpg" alt="bench">
+<p>Напомню, что <b>линейная регрессия</b> - это метод восстановления зависимости между двумя переменными. Её оптимизация сводится к максимизации правдоподобия, что эквивалентно минимизации среднеквадратичной ошибки (MSE), которая широко используется в реальных задачах.  </p>
+<img width=400 src="https://github.com/Lisstrange/interviews/blob/master/images/vector_mse.jpeg" alt="bench">
 
 </div>
 </details>
@@ -66,7 +69,6 @@
 <details>
 <summary>Виды метрик машинного обучения?</summary>
 <div> <br />
-	Тело ответаа
 	<p></p>
 	<b></b>
   
