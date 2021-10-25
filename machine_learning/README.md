@@ -93,8 +93,25 @@
   * Completeness
   * V-measure
   * Silhouette
+
+
+
+<b>Ренжирования</b>(*почитать можно [тут](https://habr.com/ru/company/econtenta/blog/303458/)*)
+  * Mean average precision (map@K)
+  * Precision at K (Precision@K)
+  * Average precision at K (ap@K)
+  * Mean average precision at K (map@K)
+  * Normalized Discounted Cumulative Gain(NDCG)
+  * Normalized Discounted Cumulative Gain (CG@K)
+  * Discounted Cumulative Gain at K (DCG@K)
+  * Normalized Discounted Cumulative Gain at K (nDCG@K)
+  * Mean reciprocal rank (MRR)
+  * Метрики на основе ранговой корреляции
+  * Метрики на основе каскадной модели поведения
 </div>
 </details>
+
+
 
 
 
