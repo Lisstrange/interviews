@@ -1,5 +1,12 @@
 <h3 align='center'>Вопросы с собеседований на позиции DS/DA/ML/DE</h3>
 
+<!-- 
+Вот тут будут ресурсы, на которые я ссылаюсь для проверки себя в ридми
+https://github.com/yofi2tofi/frontend-questions-with-answers/edit/master/readme.md
+
++ полезный ноутбук, который я скоро тоже для себя перепишу 
+https://github.com/mnguyenngo/ab-framework/blob/master/notebooks/Walkthrough.ipynb -->
+
 # Для чего этот репозиторий?
 В первую очередь - для себя. Когда пишешь шпоргалки для себя - автоматически закрепляешь освоенныйы материал. 
 # Чем он хорош?
